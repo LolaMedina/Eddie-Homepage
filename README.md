@@ -63,5 +63,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@LolaMedina](https://{github.com/LolaMedina})
-- Twitter [@LolaOS_](https://{twitter.com/lolaOS_})
+- GitHub [@LolaMedina](https://{github.com/LolaMedina)
+- Twitter [@LolaOS_](https://{twitter.com/lolaOS_)
