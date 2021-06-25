@@ -355,20 +355,20 @@
   }
   
   #img-1 {
-    background-image: url(/img/smarthome.jpg);
+    background-image: url(https://res.cloudinary.com/lolamedina/image/upload/v1624621636/edie-homepage/smarthome_vnhssi.jpg);
   }
   
   #img-2 {
     margin-top: 15px;
-    background-image: url(/img/onboard.png);
+    background-image: url(https://res.cloudinary.com/lolamedina/image/upload/v1624621615/edie-homepage/onboard_mn15i1.png);
   }
   
   #img-3 {
-    background-image: url(/img/booking.png);
+    background-image: url(https://res.cloudinary.com/lolamedina/image/upload/v1624621560/edie-homepage/booking_hqc3cb.png);
   }
   
   #img-4 {
-    background-image: url(/img/juice-product.png);
+    background-image: url(https://res.cloudinary.com/lolamedina/image/upload/v1624621586/edie-homepage/juice-product_p8abys.png);
   }
   
   .mini-titles {
@@ -457,7 +457,7 @@
   }
   
   #tm1 {
-    background-image: url(/img/person3.png);
+    background-image: url(https://res.cloudinary.com/lolamedina/image/upload/v1624621657/edie-homepage/person3_gftchg.png);
     background-size: cover;
     width: 320px;
     height: 320px;
@@ -467,7 +467,7 @@
   }
   
   #tm2 {
-    background-image: url(/img/person1.png);
+    background-image: url(https://res.cloudinary.com/lolamedina/image/upload/v1624621643/edie-homepage/person1_zvz3bf.png);
     background-size: cover;
     width: 260px;
     height: 260px;
@@ -477,7 +477,7 @@
   }
   
   #tm3 {
-    background-image: url(/img/person2.png);
+    background-image: url(https://res.cloudinary.com/lolamedina/image/upload/v1624621650/edie-homepage/person2_qshm3t.png);
     background-size: cover;
     width: 291.43px;
     height: 300px;
