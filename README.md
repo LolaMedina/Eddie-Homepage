@@ -35,9 +35,7 @@
 <!-- OVERVIEW -->
 
 ## Overview
-
-![screenshot](https://res.cloudinary.com/lolamedina/video/upload/q_50/v1624622852/edie-homepage/eddie_homepage_c1xjqh.mov)
-
+![screenshot](https://res.cloudinary.com/lolamedina/image/upload/v1624623347/edie-homepage/homepage_mwkbuq.jpg)
 
 Demo link : https://eddie-homepage-nine.vercel.app/#home
 
